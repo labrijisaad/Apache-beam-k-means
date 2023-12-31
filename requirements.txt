@@ -1,0 +1,7 @@
+# Add your project dependencies here 
+jupyterlab
+apache-beam
+numpy
+pandas
+more-itertools
+scikit-learn
