@@ -1,19 +1,22 @@
 # Apache Beam K-means: `Big Data Class Project`
 
 ## Introduction 🌟
-This repository is all about exploring and implementing various versions of the **K-means clustering** algorithm, with a focus on **sequential**, **streaming**, and **distributed** approaches using **Apache Beam**.
-
-## Project Architecture 🏗️
-Generated using the `Makefile`.
+Explore and implement **K-means clustering** in **sequential**, **streaming**, and **distributed** modes using **Apache Beam**.
 
 ## Project Objectives 🎯
 - **`Understanding K-means`**
-- **`Sequential K-Means in Python`**: Develop a Python-based K-means model.
-- **`Streaming K-means in Python`**: Adapt to dynamic data streams and distribution drift
-- **`Apache Beam for Scalability`**: Utilizing Apache Beam for large dataset processing.
+- **`Sequential K-Means in Python`**: Crafting a Python-based model.
+- **`Streaming K-means in Python`**: Tailoring for dynamic data.
+- **`Apache Beam for Scalability`**: Large dataset processing.
 
 ## Results 📈
-Have a look at the notebook in `./notebooks`. For the project's problem statement, refer to `./docs`.
+Check the insights in `./notebooks`. Problem statement in `./docs`.
+
+## Run in Colab 💻
+Access the notebook directly on [Colab](https://colab.research.google.com/github/labrijisaad/Apache-beam-k-means/blob/main/notebooks/Projet_Big_Data_LABRIJI_SAAD_SALHI_YOUSSEF.ipynb?hl=fr).
+
+## Project Architecture 🏗️
+Architecture detailed using the `Makefile`.
 
 ## Connect 🤝
-- 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/labrijisaad/).
+- 🔗 [LinkedIn](https://www.linkedin.com/in/labrijisaad/).
